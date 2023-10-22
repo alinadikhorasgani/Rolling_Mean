@@ -13,8 +13,10 @@ Visualization: The rolling mean can be plotted on a graph to provide a smoother 
 Applications: Rolling means are used in various fields, including finance (e.g., to analyze stock prices), economics (e.g., to examine economic indicators), and signal processing (e.g., for smoothing signals). They are also applied in quality control and other areas to detect patterns and anomalies.
 
 The choice of the window size is a critical aspect of using rolling means. Smaller window sizes are more responsive to short-term fluctuations, while larger window sizes provide a smoother, more long-term view of the data. The specific choice of window size depends on the nature of the data and the goals of the analysis.
+
 If you execute the code of (Rolling-mean.py), you can see this graph
 ![download](https://github.com/alinadikhorasgani/Rolling_Mean/assets/90984806/174b636d-e7d5-4f18-9955-2c4d9569bd21)
+
 This is an interpretation of this graph:
 We have monthly sales data for a year, represented by the 'Sales' column.
 
